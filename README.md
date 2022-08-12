@@ -6,8 +6,6 @@ This is the PyTorch implementation for our paper:
 
 ## Errata in Algorithm 3 of the CVPR Paper. Corrected in Arxiv Version. [[Arxiv PAPER]](https://arxiv.org/pdf/1903.09410.pdf)
 
-## Work has been accepted to CVPR 2021. Codes will be available Soon.
-
 
 
 
